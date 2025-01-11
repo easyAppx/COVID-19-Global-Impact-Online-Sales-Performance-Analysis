@@ -10,8 +10,8 @@ This project combines two comprehensive analyses conducted using Tableau:
 - **Insights for Decision-Making**: Offers actionable insights to aid in strategic decisions, resource allocation, and improving customer satisfaction.
 
 ## Files Included
-- `COVID_Impact_Analysis.twbx`: Tableau workbook for the COVID-19 analysis.
-- `Online_Sales_Performance.twbx`: Tableau workbook for the online sales performance analysis.
+- `Obiora Felix Ukwuani_8984289_Final.twbx`: Tableau workbook for the COVID-19 analysis and Tableau workbook for the online sales performance analysis.
+- `Obiora Felix Ukwuani_8984289_Power Point_Final`: Power point presentation.
 - covid_activity.csv
 - online_sales_full.csv
 - `README.md`: This document, providing an overview of the project and instructions for use.
